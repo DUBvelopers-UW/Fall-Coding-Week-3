@@ -1,0 +1,15 @@
+Set the text Airbus A380 to link to the wiki passenger
+    https://en.wikipedia.org/wiki/Airbus_A380
+
+Bold the text 
+    Airbus A380 (In first paragraph in Introduction)
+    A380 (In first paragraph in Engine)
+
+Italicize the text
+    ($10.7 billion) (In first paragraph in Introduction)
+
+Make the A330 a clickable link to
+    https://www.airbus.com/en/products-services/commercial-aircraft/passenger-aircraft/a330-family
+
+Make only the text Airbus clickable link to
+    https://www.airbus.com/en/products-services/commercial-aircraft/passenger-aircraft
